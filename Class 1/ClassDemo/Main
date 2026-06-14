@@ -1,0 +1,5 @@
+
+from ClassDemo import Circle
+from ClassDemo import Rectangle
+circle1 = Circle(5)
+rect1 = Rectangle(4, 5)
